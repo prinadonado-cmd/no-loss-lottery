@@ -106,9 +106,7 @@ Let:
 
 ## Security Features
 
-* `Ownable`
-* `Pausable`
-* `ReentrancyGuard`
+* `Ownable'
 * `SafeERC20`
 * Round state validation
 * Double-withdraw protection
